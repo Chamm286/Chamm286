@@ -1,4 +1,4 @@
-## Hi, I'm Ng Thị Bích Trâm 👋
+## Hi, I'm Chamnee 👋
 
 🎓 Information Technology Student (Engineer)  
 🏫 Vietnam–Korea University of Information and Communications Technology (VKU)  
