@@ -7,29 +7,58 @@
 
 ---
 
-## 🚀 Featured Project
+### 🎯 Academic Orientation
+- Web Application Development  
+- Database Design & Management  
+- Software Analysis and Design  
+- MVC Architecture  
 
-### PharmaGo – Pharmacy Management & Online Sales System
-PharmaGo is a web-based application designed to support pharmacy management operations while integrating online sales functionalities.
+---
 
-### 🔑 Key Features
-- Product and category management
-- Shopping cart and online checkout
-- Order processing and management
-- Inventory tracking
-- User and role-based access control
-- Admin dashboard
-- Sales reports and statistics
+### 🚀 Featured Project
 
-### 🛠 Technologies Used
-- PHP (MVC Architecture)
-- MySQL
-- HTML, CSS, JavaScript
-- Bootstrap
-- XAMPP
+#### PharmaGo – Pharmacy Management & Online Sales System
+PharmaGo is a web-based application designed to manage pharmacy operations and support online sales.
+
+**Main Features:**
+- Product and category management  
+- Shopping cart and online checkout  
+- Order processing and management  
+- Inventory and stock tracking  
+- User and role-based access control  
+- Admin dashboard  
+- Sales reports and statistics  
+
+**Project Highlights:**
+- Designed database schema for pharmacy operations  
+- Implemented role-based access control (Admin / User)  
+- Built order lifecycle from cart to checkout  
+- Developed reporting features for business analysis  
+
+**Technologies Used:**
+- PHP (MVC Architecture)  
+- MySQL  
+- HTML, CSS, JavaScript  
+- Bootstrap  
+- XAMPP  
 
 🔗 **Project Repository:**  
-https://github.com/Chamm286/pharmago-management-system
+[PharmaGo Management System](https://github.com/Chamm286/pharmago-management-system)
+
+---
+
+### 🧩 Technical Skills
+- Backend: PHP, MVC Pattern  
+- Frontend: HTML, CSS, JavaScript, Bootstrap  
+- Database: MySQL  
+- Tools: Git, GitHub, VS Code, XAMPP  
+
+---
+
+### 📌 Currently Working On
+- Developing and improving the PharmaGo Management System  
+- Enhancing admin dashboard and reporting modules  
+- Practicing clean code and MVC-based project structure  
 
 ---
 
